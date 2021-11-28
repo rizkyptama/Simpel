@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'dpksimpe_clea',
-	'password' => '@Rv$lT&v&zE#',
-	'database' => 'dpksimpe_simpel',
+	'hostname' => '185.237.144.51',
+	'username' => 'u8192524_dev',
+	'password' => 'ZezrqGYq_}RE',
+	'database' => 'u8192524_simpel',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

@@ -1,2 +1,0 @@
-# Simpel
-Ongoing Simpel
